@@ -1,0 +1,4 @@
+Patient info is : 
+ID :2  NAME : diaa
+ Is schedualling an appoinment in: 4r54324
+
